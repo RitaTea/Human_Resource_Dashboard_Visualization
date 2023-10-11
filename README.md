@@ -5,7 +5,7 @@ This project involves a discovery into the Human Resource data visualisation I h
 
 Analyzing attrition is one of the significant areas discussed in this HR Dashboard. Employee turnover, or attrition, can have significant effects on an organization's success. We can unearth patterns in attrition trends that will assist in identifying possible issue areas and taking proactive efforts to retain prized staff by examining attrition statistics.
 
-![](./hr.eniola.JPG)
+![](./hr_eniola.JPG)
 
 This dashboard shows an attrition rate of 16.12% and 237 staff out of 1470 staff, which is less than 20% of the organization's staff, which is at a moderate level for this company because some staff might have left for a progressive reason.
 
