@@ -13,4 +13,4 @@ The R&D department has the highest attrition count of 133 out of 237 staff; this
 
 In conclusion, the company can adapt the following to keep staff: competitive compensation and benefit, professional development, work-life balance, clear communication, employee involvement, and opportunities for advancement among others.
 
-#Do check my pdf. and pbix. files for the full project illustrations and insights
+# Do check the attached pdf. and pbix. files for the full project illustrations and insights
